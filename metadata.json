@@ -1,0 +1,7 @@
+{
+  "name": "EcoUrban Micro-Farming",
+  "description": "A tech-enabled urban farming platform providing personalized plant recommendations based on genetics, AI plant monitoring, and blockchain-driven sustainability tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
